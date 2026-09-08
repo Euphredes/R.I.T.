@@ -17,7 +17,7 @@ Location: Philadelphia, PA.
            -------- 
 
 Introduction                         - 
-Protection                           II. 
-Love                                 IX. 
-Trials                               XVIII. 
-Loyalty                              XXXIV. 
+Freshman                             II. 
+Sophomore                            IX. 
+Deans                                XVIII. 
+PhD                                  XXXIV. 
