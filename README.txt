@@ -16,11 +16,11 @@ Location: Philadelphia, PA.
            Contents 
            -------- 
 
-Introduction                         - 
-Freshman                             II. 
-Sophomore                            IX. 
-Deans                                XVIII. 
-PhD                                  XXXIV. 
+Introduction 
+Freshman 
+Sophomore 
+Deans 
+PhD 
 
            Introduction 
            ------------ 
